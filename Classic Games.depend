@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1514868178 source:c:\users\marco\desktop\classic games\games.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"rlutil.h"
+	"games.h"
+
+1514773335 c:\users\marco\desktop\classic games\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1514865947 source:c:\users\marco\desktop\classic games\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"games.h"
+
+1514865262 c:\users\marco\desktop\classic games\games.h
+
+1514862347 source:c:\users\marco\onedrive\documentos\codeblocks\projetos\classic games\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"games.h"
+
+1525453335 c:\users\marco\onedrive\documentos\codeblocks\projetos\classic games\games.h
+
+1525453062 source:c:\users\marco\onedrive\documentos\codeblocks\projetos\classic games\games.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"rlutil.h"
+	"games.h"
+
+1514769735 c:\users\marco\onedrive\documentos\codeblocks\projetos\classic games\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+

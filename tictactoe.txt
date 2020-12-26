@@ -1,0 +1,15 @@
+Objective: 
+	Place 3 equal marks in a vertical, horizontal or diagonal row, as the following examples:
+	 O | O | O 			 X |   |			 O |   |
+  	---+---+---			---+---+---			---+---+---
+	   |   |   			 X |   |   			   | O |   		
+  	---+---+---			---+---+---			---+---+---
+	   |   |   			 X |   |   			   |   | O 
+	If both players fail to reach the objective, it's a draw.
+How to play:
+	You choose a position to place your mark, unless it was already chosen. At the same time, you need to
+	reach the objective and not let the opponent do the same. 
+Difficulties:
+	Easy: Computer chooses any position
+	Medium: Computer tries to win, but it doesn't use any tricks
+	Hard: Computer uses tricks to win and it can't lose

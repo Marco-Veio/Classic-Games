@@ -1,0 +1,19 @@
+Objetivo:
+	Acertar a combinaá∆o de 4 cores geradas pelo computador. Para isso, vocà ter† 10 tentativas.
+Como jogar:
+	Digitar os n£meros equivalentes Ös cores:
+	1 - Azul
+	2 - Verde
+	3 - Ciano
+	4 - Vermelho
+	5 - Magenta
+	6 - Marrom
+	7 - Amarelo
+	8 - Cinza escuro
+	9 - Azul claro
+	Nem todas as cores estar∆o dispon°veis (vocà escolhe a quantidade de cores). Ap¢s digitar 4 cores, vocà receber†
+	o resultado da tentativa com quadrados pretos e cinzas. Os pretos significam que vocà acertou uma cor na posiá∆o
+	correta, e os cinzas significam que acertou uma cor mas na posiá∆o errada.
+Dificuldade:
+	F†cil: A senha n∆o ter† cores repetidas
+	Dif°cil: A senha pode ter cores repetidas

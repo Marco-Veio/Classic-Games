@@ -1,0 +1,16 @@
+Objetivo: 
+	Colocar 3 pe‡as iguais no tabuleiro, uma no lado da outra, na vertical, horizontal ou diagonal, como nos
+	seguintes exemplos:
+	 O | O | O 			 X |   |			 O |   |
+  	---+---+---			---+---+---			---+---+---
+	   |   |   			 X |   |   			   | O |   		
+  	---+---+---			---+---+---			---+---+---
+	   |   |   			 X |   |   			   |   | O 
+	Caso nenhum jogador cumpra o objetivo, ‚ considerado empate (velha).
+Como jogar:
+	Basta escolher uma posi‡Æo para p“r sua pe‡a, a menos que essa posi‡Æo j  esteja sendo ocupada. Ao mesmo tempo,
+	vocˆ deve tentar cumprir o objetivo e impedir que o advers rio fa‡a o mesmo.
+Dificuldades:
+	F cil: O computador sorteia posi‡äes quaisquer
+	M‚dio: O computador tenta ganhar, mas sem usar truques
+	Dif¡cil: O computador usa truques para ganhar e nunca perde

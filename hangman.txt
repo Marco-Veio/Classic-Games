@@ -1,0 +1,10 @@
+Objective:
+	Guess the word chosen by the opponent.
+How to play:
+	The opponent chooses a word (in lower case), and you have to guess 1 letter each time.
+	When you guess a letter correctly, it will appear at the correct quantity and position. If choose a wrong
+	letter, it will be on the error list and you will lose a try.
+Dificuldades:
+	Easy: 10 tries
+	Medium: 6 tries
+	Hard: 3 tries

@@ -1,0 +1,10 @@
+Objetivo:
+	Acertar a palavra escolhida pelo advers†rio.
+Como jogar:
+	O advers†rio escolhe uma palavra (em letra min£scula), e vocà deve adivinha-l† letra por letra.
+	Conforme vocà acerta as letras, elas aparecer∆o na quantidade e posiá∆o corretas. Caso erre uma letra, ela ser†
+	colocada na lista de erros e vocà perder† uma tentativa.
+Dificuldades:
+	F†cil: 10 tentativas
+	MÇdio: 6 tentativas
+	Dif°cil: 3 tentativas
